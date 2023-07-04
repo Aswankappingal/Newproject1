@@ -1,0 +1,28 @@
+.links{
+    text-align: end;
+}
+
+.para{
+    text-align: justify;
+}
+.head{
+    text-align: center;
+    color: darkgreen;
+}
+.container{
+    border: 3px solid black;
+    padding: 10px 10px 10px;
+    background-color: bisque;
+}
+.inner{
+    border: 2px solid red;
+}
+.shadow{
+    box-shadow: -1px 1px 5px 8px rgba(112, 70, 70, 0.35);
+    margin: 20px;
+}
+.img1 img{
+    text-align: center;
+    width: 22%;
+    height: 250px;
+}
